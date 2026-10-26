@@ -1,0 +1,5 @@
+sequence_id,frame,position
+sequence_01,1,standing
+sequence_01,31,closed_guard1
+sequence_01,61,half_guard1
+sequence_01,91,side_control2
